@@ -1,12 +1,6 @@
-"# ReWear\_teamAtharva"
-
-
+"# ReWear_teamAtharva" 
 
 ReWear – Community Clothing Exchange 
-
-
-
-
 
 Chandel Dhiraj Singh Ramesh Singh - 24mca007@nirmauni.ac.in
 
